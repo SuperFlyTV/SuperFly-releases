@@ -16,6 +16,7 @@ macOS (Apple Silicon) and Linux, with [Homebrew](https://brew.sh):
 brew install superflytv/tap/sfm
 ```
 
+<!-- Not in winget yet: restore once SuperFlyTV.SuperFlyManager is merged into microsoft/winget-pkgs.
 Windows:
 
 ```powershell
@@ -23,6 +24,9 @@ winget install SuperFlyTV.SuperFlyManager
 ```
 
 Update later with `brew upgrade sfm` or `winget upgrade SuperFlyTV.SuperFlyManager`.
+-->
+
+Update later with `brew upgrade sfm`. On Windows, see [Without a package manager](#without-a-package-manager).
 
 ### Start
 
